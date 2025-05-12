@@ -26,10 +26,10 @@ function speak(text) {
 function getAnswer(question) {
     const qa = {
         "hello": "Hello! How can I assist you today?",
-        "what is your name": "My name is Shifra, your virtual assistant.",
+        "what is your name": "My name is Zimmy, your virtual assistant.",
         "how are you": "I'm doing well, thank you for asking!",
         "what can you do": "I can answer questions, open websites, search the web, provide date and time information.",
-        "who created you": "I was created by Pranjal.",
+        "who created you": "I was created by Mr, Deepak.",
         "what is your purpose": "My purpose is to assist you with tasks and provide helpful information.",
         "tell me a joke": "Why don't scientists trust atoms? Because they make up everything!",
         "what is the weather like today": "I currently do not have access to real-time weather data.",
@@ -39,7 +39,7 @@ function getAnswer(question) {
         "how do you work": "I work by processing your queries and providing the best possible responses based on my programming.",
         "can you search the web": "Yes, I can perform web searches and provide information from various sources.",
         "what is your favorite color": "I don't have preferences like humans, but I imagine blue would be nice!",
-        "who is your creator": "I was created by Pranjal to assist you in your tasks.",
+        "who is your creator": "I was created by Mr, Deepak to assist you in your tasks.",
         "can you set reminders": "Currently, I don't support setting reminders, but you can use calendar apps for that."
     };
 
